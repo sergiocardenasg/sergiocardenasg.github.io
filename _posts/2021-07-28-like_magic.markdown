@@ -13,7 +13,13 @@ A few days later, I was diagnosed with COVID-19 and, while I had mild symptoms, 
 
 I live in Central Texas and later that same week, the worst snow storm to ever hit the state fell upon us. We lost water, electricity, and the temperature inside the house was 40 degrees. Being sick and with no power, I started to fall behind in the curriculum. Once I felt better, got out of quarantine, and got my power back on, I started my new job. I hit the ground running and was drinking water out of a fire hose, so I fell even more behind in the curriculum. I decided to move to another cohort to give myself more time to catch up and get acclimated to the new job to catch up with homework and projects. Wrong.
 
-I ended up moving cohorts a SECOND time because 'life', or whatever we tell ourselves got in our way to avoid accountability, happened. I decided this would be the last time I'd do that, and committed to finishing the curriculum once in for all. After a few long weeks of balancing the bootcamp, work, and buying/moving to my first home, I can say I kept that promise to myself to not allow me to fall behind again. I am just about done with my 4th project, writing this late on a Monday night because it's when I can find the time.
+I ended up moving cohorts a SECOND time because 'life', or whatever we tell ourselves got in our way to avoid accountability, happened (yet again). To be fully transparent, after my job change this year, I am not entirely sure if I want to pivot to Software Engineering as a career path in the future. So perhaps subconsciously, I was sabotaging myself making excuses and procrastinating on my coding responsibilities. After pondering it for a while, I decided I did want to complete the curriculum because:
+
+1. Coding is a practical and on-demand skillset,
+2. I genuinely find this interesting and challenging, and
+3. I committed to it
+
+fter a few long weeks of balancing the bootcamp, work, and buying/moving to my first home, I can say I kept that promise to myself to not fall too behind in the bootcamp again. I am just about done with my JS project, writing this late on a Monday night because it's when I can find the time to do so, but feeling good with myself for sticking to my commitment.
 
 One of my favorite quotes is: "We Either Suffer the Pain of Discipline, or the Pain of Regret". Just as we can do things with applications using Javascript that look like magic, I think we all are more capable of what we tell ourselves, and have similar 'magic' to achieve anything we set our minds to with enough discipline and perseverance.
 
