@@ -19,7 +19,7 @@ I ended up moving cohorts a SECOND time because 'life', or whatever we tell ours
 2. I genuinely find this interesting and challenging, and
 3. I committed to it
 
-fter a few long weeks of balancing the bootcamp, work, and buying/moving to my first home, I can say I kept that promise to myself to not fall too behind in the bootcamp again. I am just about done with my JS project, writing this late on a Monday night because it's when I can find the time to do so, but feeling good with myself for sticking to my commitment.
+After a few long weeks of balancing the bootcamp, work, and buying/moving to my first home, I can say I kept that promise to myself to not fall too behind in the bootcamp again. I am just about done with my JS project, writing this late on a Monday night because it's when I can find the time to do so, but feeling good with myself for sticking to my commitment.
 
 One of my favorite quotes is: "We Either Suffer the Pain of Discipline, or the Pain of Regret". Just as we can do things with applications using Javascript that look like magic, I think we all are more capable of what we tell ourselves, and have similar 'magic' to achieve anything we set our minds to with enough discipline and perseverance.
 
