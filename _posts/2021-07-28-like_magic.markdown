@@ -15,5 +15,5 @@ I live in Central Texas and later that same week, the worst snow storm to ever h
 
 I ended up moving cohorts a SECOND time because 'life', or whatever we tell ourselves got in our way to avoid accountability, happened. I decided this would be the last time I'd do that, and committed to finishing the curriculum once in for all. After a few long weeks of balancing the bootcamp, work, and buying/moving to my first home, I can say I kept that promise to myself to not allow me to fall behind again. I am just about done with my 4th project, writing this late on a Monday night because it's when I can find the time.
 
-One of my favorite quotes is: "We Either Suffer the Pain of Discipline, or the Pain of Regret". Just as we can do things with applications using Javascripts that look like magic, I think we all are more capable of what we tell ourselves, and have similar 'magic' to achieve anything we set our minds to with enough discipline and perseverance.
+One of my favorite quotes is: "We Either Suffer the Pain of Discipline, or the Pain of Regret". Just as we can do things with applications using Javascript that look like magic, I think we all are more capable of what we tell ourselves, and have similar 'magic' to achieve anything we set our minds to with enough discipline and perseverance.
 
